@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React with KSHITIJA
+          Learn React with KSHITIJA Shitole
         </a>
       </header>
     </div>
