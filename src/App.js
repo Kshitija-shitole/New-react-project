@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React with KSHITIJA Shitole
+          Learn React with KSHITIJA Shitole & GitHub with Purvank
         </a>
       </header>
     </div>
